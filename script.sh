@@ -1,4 +1,2 @@
-#!bin/sh
-
-echo "Hello, World!" 
+#!bin/sh 
 echo "This is line two"
